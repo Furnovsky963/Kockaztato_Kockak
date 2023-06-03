@@ -31,7 +31,11 @@ p{
     text-align: center;
 }
 #header{
-    background-color: rgb(26, 26, 139);
+    background-color: rgb(42, 113, 161);
+}
+.fooldallinkek{
+    width: 100px;
+    float: right;
 }
 #h1{
     text-align: center;
