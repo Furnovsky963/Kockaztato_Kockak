@@ -175,3 +175,9 @@ footer{
 article{
     width: 50%;
 }
+table{
+    border:solid rgb(70, 70, 70) 3 px;
+}
+tr{
+    border:solid rgb(70, 70, 70) 1 px;
+}
