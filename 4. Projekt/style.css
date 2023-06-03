@@ -20,6 +20,19 @@ p{
     text-align: justify;
     text-indent: 10px;
 }
+#fooldal{
+    background-image: url(forrás/főoldalháttér.gif);
+    background-position:fixed;
+    display: block;
+    margin: auto;
+}
+.folinkek{
+    background-color: white;
+    text-align: center;
+}
+#header{
+    background-color: rgb(26, 26, 139);
+}
 #h1{
     text-align: center;
     font-variant: small-caps;
