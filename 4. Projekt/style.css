@@ -103,10 +103,12 @@ main{
 .jobbkep{
     float: right;
     width: 10%;
+    margin: 10px;
 }
 #ENIAC{
     float: right;
     width: 25%;
+    margin: 10px;
 }
 figure{
     text-align: right;
@@ -121,6 +123,7 @@ figure{
 #konyv{
     float: left;
     width: 10%;
+    margin: 10px;
 }
 #forrasok{
     text-indent: 0px;
